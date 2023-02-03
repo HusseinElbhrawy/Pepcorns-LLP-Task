@@ -1,16 +1,23 @@
-# pepcorns_llp
+# Pepcorns LLP
 
-A new Flutter project.
+this is taks of Pepcorns LLP Company
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### APK 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Link](https://drive.google.com/file/d/1cyRj9BAgTZQVwx2bkXQ73hqb3t6hbeJS/view?usp=sharing)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Video
+
+
+https://user-images.githubusercontent.com/64389727/216716648-5a86c2d5-8c56-46dc-93e1-48f8aafd66a8.mp4
+
+
+
+### Mockup
+
+![Apple iPhone 11 Pro Max Presentation](https://user-images.githubusercontent.com/64389727/216716654-cbf9a6f6-42e5-4a77-a54d-d6f0ee64e36f.png)
+
+
